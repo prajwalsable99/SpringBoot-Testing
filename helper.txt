@@ -1,0 +1,16 @@
+1. Tut 1 ==> unit testing ,test cases,code coverage reports
+
+2. ut and cc with maven ==> above amnually with mvn
+
+3. fizzbuzzTDD ==>test driven dev of FizzbuzzApp
+
+4.stringtestdemo==> testing sample spingboot app
+
+5 and 6.mockito demo apps ==> test services by making mock dao
+
+7.ReflectionUtils ==> to access private var/fun from beans
+
+8. MVC Crud App with testing junnit5,Mockito and h2 DB 
+
+9.REST Testing
+
